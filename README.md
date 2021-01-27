@@ -12,7 +12,7 @@
 
 -    ✏**Mi nombre es Luis Angel** 
 -    ✔**Tengo 17 años**
--   💻**Estudiante de informatica**
+-    🎈**Naci el 8/ene/2004**
 
 
 
