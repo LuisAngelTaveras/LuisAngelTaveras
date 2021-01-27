@@ -6,12 +6,13 @@
  
 </div>
 
-</br></br>
+</br>
 
 ## 💬 Datos Personales
 
 -    ✏**Mi nombre es Luis Angel** 
 -    ✔**Tengo 17 años**
+-   💻**Estudiante de informatica**
 
 
 
