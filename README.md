@@ -19,8 +19,8 @@
 
 ##  📚Estudios
 
--    **Primary Education
-2010-2015-school San Lorenzo**
+-    **Estudios primarios en San Lorenzo 2010-2016**
+-    **Estudios secundarios CEMAS 2016-2021**
 
 
 
