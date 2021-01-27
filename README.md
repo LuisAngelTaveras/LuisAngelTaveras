@@ -15,10 +15,12 @@
 -    🎈**Naci el 8/ene/2004**
 -    💙**Soy Dominicano**
 
-</br>
+
 
 ##  📚Estudios
 
+-    **Primary Education
+2010-2015-school San Lorenzo**
 
 
 
@@ -32,6 +34,4 @@
 
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+
