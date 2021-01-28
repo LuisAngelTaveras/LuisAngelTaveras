@@ -15,12 +15,16 @@
 -    💙**Soy Dominicano**
 -    🕐**Actualmente me encuentro terminando la secundaria**
 
+</br>
+
 
 
 ##  📚Estudios
 
 -    **Estudios primarios en San Lorenzo 2010-2016**
 -    **Estudios secundarios CEMAS 2016-2021**
+
+</br>
 
 ##  💻Lenguajes de programacion
 
@@ -29,6 +33,12 @@
  <a href="#" target="_blank"> <img src="https://es.bloggif.com/output/7/a/7ad54588e0e52600ebfc888466bbf402.gif?1611846967" alt="javascript" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://es.bloggif.com/output/e/0/e09c2963b051cdff40fdeaf3479a9e8e.gif?1611847286" alt="git" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://es.bloggif.com/output/e/8/e85f39d2d73eba79d65c9815965e96b3.gif?1611847598" alt="react" width="40" height="40"/> </a>
+ 
+ </br>
+ 
+##  📳Redes sociales
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/imsivram1999/) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+
  
 
 
