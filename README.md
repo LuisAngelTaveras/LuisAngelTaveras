@@ -13,6 +13,7 @@
 -    ✔**Tengo 17 años**
 -    🎈**Naci el 8/ene/2004**
 -    💙**Soy Dominicano**
+-    🕐**Actualmente me encuentro terminando la secundaria**
 
 
 
