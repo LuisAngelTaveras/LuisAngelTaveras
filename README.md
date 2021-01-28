@@ -25,8 +25,8 @@
 ##  💻Lenguajes de programacion
 
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
+<a href="blob:https://web.whatsapp.com/32832d6e-1489-493d-bd3b-b52aea36519a">
+  <img align="center" src="blob:https://web.whatsapp.com/32832d6e-1489-493d-bd3b-b52aea36519a" />
 </a>
 
 
