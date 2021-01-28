@@ -5,8 +5,7 @@
   <img src="https://es.bloggif.com/tmp/19dd1a04fe85335a1c5a4820b3d20daf/text.gif?1611838468" style="max-width: 100%;" alt="Welcome to my Github Profile" />
  
 </div>
-
-</br>
+</br></br></br>
 
 ## 💬 Datos Personales
 
