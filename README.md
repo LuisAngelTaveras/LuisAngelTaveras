@@ -28,7 +28,7 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://es.bloggif.com/output/7/6/76a0c654ed6ddcaad6853b943ba163a5.gif?1611846555" alt="css3" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://es.bloggif.com/output/7/a/7ad54588e0e52600ebfc888466bbf402.gif?1611846967" alt="javascript" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://es.bloggif.com/output/e/0/e09c2963b051cdff40fdeaf3479a9e8e.gif?1611847286" alt="git" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://es.bloggif.com/output/0/e/0e8adf2da65b1bef87159dc847847a16.gif?1611845609" alt="react" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://es.bloggif.com/output/4/d/4dc659abbfc566404780de7af0506fef.gif?1611847517" alt="react" width="40" height="40"/> </a>
  
 
 
