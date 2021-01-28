@@ -24,7 +24,7 @@
 
 ##  💻Lenguajes de programacion
 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://es.bloggif.com/output/0/2/026eeacd9ac7c247f02ef5bc1def7e06.gif?1611846408" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://es.bloggif.com/output/3/e/3ec7e02e9bd0c81402d9d1075904ee48.gif?1611846664" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://es.bloggif.com/output/7/6/76a0c654ed6ddcaad6853b943ba163a5.gif?1611846555" alt="css3" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://es.ourcodeworld.com/recursos-publicos/galeria/categorielogo-5c96c4b544d8c.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
